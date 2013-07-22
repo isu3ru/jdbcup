@@ -1,27 +1,8 @@
 JDBCup
 ======
 
-JDBC based database dump class can be used with a MySQL database
+This is a backup script coded in java to make SQL dump files for the MySQL database engine.
 
-These are the files you see when you download this project.
------------------------------------------------------------
+It also has the encoding interface to encode and decode strings in java and it was created to use with another project of mine.
 
-build.xml
-build/built-jar.properties
-build/classes/.netbeans_automatic_build
-build/classes/.netbeans_update_resources
-build/classes/jdbckup/EncDec.form
-dist/README.TXT
-lib/nblibraries.properties
-manifest.mf
-nbproject/build-impl.xml
-nbproject/genfiles.properties
-nbproject/private/private.properties
-nbproject/private/private.xml
-nbproject/project.properties
-nbproject/project.xml
-src/jdbckup/DatabaseUtils.java
-src/jdbckup/DumpDB.java
-src/jdbckup/EncDec.form
-src/jdbckup/EncDec.java
-src/jdbckup/Utils.java
+As this is a NetBeans IDE project, you can simply clone this repository and open it with your IDE.
